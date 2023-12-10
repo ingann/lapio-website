@@ -1,26 +1,33 @@
 .first-box-container {
-    width: 200px;
-    height: 100px;
     background-color: red;
-    position: absolute;
-    margin-top: 2px;
+    border-color: green;
   }
   
   .second-box-container {
-    width: 200px;
-    height: 100px;
     background-color: yellow;
-    position: absolute;
-    left: 250px;
-    margin-top: 2px;
+    border-color: red;
+    left: 300px;
   }
   
   .third-box-container {
+    background-color: green;
+    border-color: yellow;
+    left: 600px;
+  }
+
+  .container{
     width: 200px;
     height: 100px;
-    background-color: green;
-    position: absolute;
-    left: 500px;
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
     margin-top: 2px;
+    border-style: solid;
+    border-width: 15px;
+    position: absolute;
+  }
+
+  p{
+    padding-top: 20px;
   }
   
