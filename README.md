@@ -1,0 +1,1 @@
+This is a small school course where the goal is to learn about css and html as well as using github and unix-environment. The exercises are mainly about learning HTML and CSS and committing and pushing the changes made locally to github through command line.
