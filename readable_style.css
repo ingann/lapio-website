@@ -1,0 +1,21 @@
+body {
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+    color: rgba(247, 151, 25, 0.822);
+    background-color: rgba(3, 29, 46, 0.986);
+}
+
+h1 {
+    margin-top: 1em;
+    padding-top: 1em;
+    color: rgba(247, 151, 25, 0.822)
+}
+
+code {
+    padding: 2px 4px;
+    vertical-align: text-bottom;
+    background: #3b3939;
+}
